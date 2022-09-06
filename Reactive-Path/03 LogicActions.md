@@ -44,3 +44,28 @@
 
 # Variables
 
+> Variables are defined and will exist in a particular scope.
+
+    - Value can be accessed and Modified inside of that scope. 
+    - If the execution leaves that scope the vars will be destroyed.
+
+
+## Input Parameters
+
+    - Allows us to pass a value from outside scope to the parent scope.
+    - All input params get destroyed when the execution leaves the scope of the parent element.
+    - After server action, execution moves to the outer scope and input params are no longer available.
+
+## Output Parameters
+
+    - An output param will return a value from inside he parent scope to the outside scope.
+    - Doesn't get destroyed.
+
+## Local Variables
+
+    - Local Variables exist exclusively within the scope of their parent element.
+
+> Outsystems Language is strongly typed. This means data type of variables on declaration is necessary.
+
+
+
