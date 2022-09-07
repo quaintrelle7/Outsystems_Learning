@@ -1,5 +1,6 @@
 # Fetching Data
 
+https://success.outsystems.com/Documentation/11/Developing_an_Application/Implement_Application_Logic/Screen_and_Block_Lifecycle_Events
 
 ## 1) Using Screen Aggregates
     - Using Screen Aggregates within screen scope only.
