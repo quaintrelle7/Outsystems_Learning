@@ -67,5 +67,8 @@
 
 > Outsystems Language is strongly typed. This means data type of variables on declaration is necessary.
 
+## Serive Actions
 
+https://success.outsystems.com/Documentation/11/Developing_an_Application/Reuse_and_Refactor/Use_Services_to_Expose_Functionality
 
+- Service Action is a REST based remote call to another process, but its usage is very similar to public Server Actions.
